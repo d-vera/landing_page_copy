@@ -25,3 +25,4 @@ Route::get('/productos',[ControllerEstudiante::class,'metodoproductos']);
 
 
 Route::get('/id/categoria/timestamp',[ControllerEstudiante::class,'metodocategorias']);
+Route::get('/id/categoria/timestamp',[ControllerEstudiante::class,'metodovhspulin']);
